@@ -15,7 +15,7 @@ If you are not using HACS, you may download bkk_stop_card.js and put it into $ho
 Add the following lines to your ui-lovelace.yaml (entity should be the sensor of bkk_stop platform you defined):
 ```
 resources:
-  - {type: module, url: '/www/community/au190_bkk_stop_card/bkk_stop_card.js '}
+  - {type: module, url: '/www/community/au190_bkk_stop_card/au190_bkk_stop_card.js '}
 
 cards:
   - entity: sensor.99_home_city
