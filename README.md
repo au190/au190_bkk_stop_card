@@ -34,7 +34,7 @@ type: vertical-stack
 ```
 
 Lovelace UI:<br />
-![bkk_stop Lovelace example](bkk_lovelace.png)
+<img src='https://raw.githubusercontent.com/au190/au190_bkk_stop_card/master/bkk_lovelace.png'/>
 
 
 Updated server side
