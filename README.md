@@ -9,7 +9,7 @@ https://github.com/au190/au190_bkk_stop
 #### Installation
 The easiest way to install it is through [HACS (Home Assistant Community Store)](https://custom-components.github.io/hacs/),
 search for <i>bkk</i> and select BKK Stop Card from Plugins.<br />
-If you are not using HACS, you may download bkk_stop_card.js and put it into $homeassistant_config_dir/www.<br />
+If you are not using HACS, you may download bkk_stop_card.js and put it into $homeassistant_config_dir/www/community/<br />
 
 #### Lovelace UI configuration
 Add the following lines to your ui-lovelace.yaml (entity should be the sensor of bkk_stop platform you defined):
